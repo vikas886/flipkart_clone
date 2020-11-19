@@ -1,0 +1,4 @@
+1.I used a flag variable for easylocaliation while routing i passed a variable to other screens.
+2.Then depend on that variable in the didchangedependencies method ,i use if-else to set easylocalization for that screen.
+3.when ever i change language by clicking the change-language button in menu, toggeling between the languages happens.
+ 
